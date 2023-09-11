@@ -1,0 +1,12 @@
+.flower{
+    background-image: url(hello.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 600px;
+}
+.flower1{
+    background-image: url(hie.jpg);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    height: 600px;
+}

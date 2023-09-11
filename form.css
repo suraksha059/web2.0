@@ -1,0 +1,32 @@
+.form{
+     border: 2px solid black;
+     width: 40%;
+     padding: 5px;
+     margin: auto;
+     background-color: whitesmoke;
+     border-radius: 3%;
+}
+.border-box{
+    background-color: whitesmoke;
+    background-clip: border-box;
+    width: 50%;
+    border-style: dotted;
+    border-width: thick;
+}
+.padding-box{
+    background-color: whitesmoke;
+    background-clip: padding-box;
+    width: 50%;
+    border-style: dotted;
+    border-width: thick;
+
+}
+.content-box{
+    background-color: whitesmoke;
+    background-clip: content-box;
+    width: 50%;
+    border-style: dotted;
+        border-width: thick;
+
+}
+    
